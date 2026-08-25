@@ -1,4 +1,4 @@
-Ideas in progress and completed work. This is where theory meets practice. Below is a curated list of the projects I am currently designing, coding, and refining as I progress through my degree.
+* ** Ideas in progress and completed work. This is where theory meets practice. Below is a curated list of the projects I am currently designing, coding, and refining as I progress through my degree **
 
 ---
 
